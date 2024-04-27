@@ -22,6 +22,6 @@ for height, weight, gender, and personal records to help further customize the p
 
 ## YouTube Playlist
 
-For a more interactive look at some of these projects, check out my [unlisted YouTube playlist]https://www.youtube.com/playlist?list=PL751Uihv4zk-wRUfmvrLPG3SWuVUlReHk. Here, I cover the projects in detail, including walkthroughs, demos, and discussions of the challenges I faced.
+For a more interactive look at some of these projects, check out my [[unlisted YouTube playlist](https://www.youtube.com/playlist?list=PL751Uihv4zk-wRUfmvrLPG3SWuVUlReHk)]. Here, I cover the projects in detail, including walkthroughs, demos, and discussions of the challenges I faced.
 
 Thank you for visiting my project portfolio!
